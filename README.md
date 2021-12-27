@@ -1,5 +1,4 @@
-# Simple TodoList using React Native
+# First React Native App todolist
 <p>
-  <a href="https://www.youtube.com/playlist?list=PLYBvEAka-q1hJuwRPYQPlEBBRm7_qGw_2">YouTube Tutorial Series</a>
-</p>
+  </p>
 <img src="./mockup.png" />
